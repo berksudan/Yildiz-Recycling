@@ -33,7 +33,7 @@ _________________________________________________________
 + Toplama esnasında, insanlar çok bekletilmemelidir. İnsanların tablalarını teslim ederken ekstra beklememesi için;
   tabla teslim sırasında halihazırda bekleyen kişilerden toplama yapılmalıdır. Sıranın çok fazla olduğu durumlarda
   geçici olarak toplama yapılmayabilir.
-+ [Köpekler için Yemek Uygunluğu Listesi](#köpekler-için-yemek-uygunluğu-listesi)'nde köpekler için uygun yemekler
++ [Köpekler için Yemek Uygunluğu Listesi](#2-köpekler-için-yemek-uygunluğu-listesi)'nde köpekler için uygun yemekler
   listelenmiştir. Listede mevcut olmayan yemekler
   için grup yöneticilerine ulaşılabilir. Köpekler için uygun olan yiyeceklerin köpekler tarafından yenileceğinin
   garantisi yoktur. Köpeklerin bu yiyecekleri yemeyi tercih edip etmeyeceği konusunda bilgi almak için
