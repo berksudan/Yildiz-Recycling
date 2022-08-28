@@ -12,5 +12,5 @@ _________________________________________________________
 
 + For Google Docs link, click the GIF below:
   <a href="https://docs.google.com/spreadsheets/d/1j3S_iMONYx5T3jOBBhDO8krwzHdMHT2hOFlENnvkhiU/edit?usp=sharing">
-  <img src="./GIFs/yemek_uygunlugu_google_docs_page.gif" alt="Google Docs Link with GIF"  width="70%" />
+  <img style="border:3px solid black;" src="./GIFs/yemek_uygunlugu_google_docs_page.gif" alt="Google Docs Link with GIF"  width="70%" />
   </a>
