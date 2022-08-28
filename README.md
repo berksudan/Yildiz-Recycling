@@ -9,5 +9,7 @@ _________________________________________________________
 
 ## Köpekler için Yemek Uygunluğu Listesi
 
-+ [Google Docs](https://docs.google.com/spreadsheets/d/1j3S_iMONYx5T3jOBBhDO8krwzHdMHT2hOFlENnvkhiU/edit?usp=sharing).
-+ [![Google Docs](./GIFs/asd.gif)](https://docs.google.com/spreadsheets/d/1j3S_iMONYx5T3jOBBhDO8krwzHdMHT2hOFlENnvkhiU/edit?usp=sharing)
++ For Google Docs link, click the image below:
+  <a href="https://docs.google.com/spreadsheets/d/1j3S_iMONYx5T3jOBBhDO8krwzHdMHT2hOFlENnvkhiU/edit?usp=sharing">
+  <img src="./GIFs/yemek_uygunlugu_google_docs_page.gif" alt="Google Docs Link with GIF"  width="70%" />
+  </a>
