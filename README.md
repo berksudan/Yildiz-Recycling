@@ -102,7 +102,9 @@ _________________________________________________________
   tıklayınız.
 
 
-## 4. Tanıtım Afişleri ve Tanıtım Metni
+## 4. Tanıtım Metni ve Tanıtım Afişleri
+
++ **2018-19 - Proje Tanıtım Metni**: [Bağlantı](./Tanıtım%20Afişleri%20ve%20Tanıtım%20Metni/Tanıtım%20Haber%20Metni.pdf).
 
 + 2018-19 Bahar Dönemi - Tanıtım Afişi:
 
@@ -112,7 +114,6 @@ _________________________________________________________
 
 <img src="./Tanıtım Afişleri ve Tanıtım Metni/Güz Dönemi - Detaylı Afiş.png" alt="2018-19 Güz Dönemi - Detaylı Afiş"  width="66%" />
 
-+ 2018-19 - Proje Tanıtım Metni: [Bağlantı](./Tanıtım%20Afişleri%20ve%20Tanıtım%20Metni/Tanıtım%20Haber%20Metni.pdf).
 
 
 ## 5. Basında Yıldız Dönüşüyor
