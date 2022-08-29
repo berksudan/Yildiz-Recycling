@@ -210,3 +210,5 @@ Yazı, YTÜ öğrencileri tarafından çıkarılan Sombrero Dergi’nin üçünc
 + **Yıldız Dönüşüyor - Instagram:** https://instagram.com/yildizdonusuyor
 + **YTÜ Hayvan Hakları Kulübü - Instagram:** https://instagram.com/ytuhayhak
 + **YTÜ Hayvan Hakları Kulübü - LinkedIn:** https://linkedin.com/company/yildizhayvanhaklarikulubu
++ **YTÜ Hayvan Hakları Kulübü - Web Sayfası:** https://ytuhayhak.carrd.co
++ **YTÜ Hayvan Hakları Kulübü - Diğer Bağlantılar:** https://linktr.ee/ytuhayhak
