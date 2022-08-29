@@ -23,14 +23,6 @@ recycling and regain uneaten foods.
 
 ## 0. Giriş
 
-Resmi rakamlara göre Dünya'daki gıdaların üçte biri çöpe gidiyor ve maalesef bu rakamlar Türkiye'de de çok farklı değil.
-Türkiye'de yüz binlerce hayvan barınaklarda bulunmakta ve bir o kadarı da sokaklarda yaşam mücadelesi vermekte. Bu
-canların birçoğu beslenememekten ve hastalıklardan yaşamlarını kaybediyor. Bu kadar yemek çöpe giderken maalesef
-sokaktaki ve barınaktaki canlar bu yemeklere ulaşamıyor. Ayrıca ülkemizde ve Dünya'da atıkların çoğalmasıyla doğamız her
-geçen gün kirleniyor. Uzmanlar geri dönüşümün öneminin her geçen gün arttığına dikkat çekiyor. Geri dönüşümle büyük
-oranda ekonomiye katkı sağlayacak atıklar; bu katkıya ek olarak toprağımızı ve suyumuzu kirletmeyerek doğamızın temiz
-kalmasını sağlayacaktır.
-
 YTÜ Ekonomi Kulübü ve YTÜ Hayvan Hakları Kulübü'nün başlatmış olduğu "Yıldız Dönüşüyor" adlı proje bu konularda
 farkındalık yaratarak hem kampüs hayvanlarını doyuruyor hem de geri dönüşüme katkı sağlıyor. Mart 2018'de başlayan
 projeyle ilk önce Yıldız Teknik Üniversitesi Davutpaşa kampüsü içerisindeki köpeklerin doyması ve kağıt/plastik geri
@@ -209,6 +201,8 @@ Yazı, YTÜ öğrencileri tarafından çıkarılan Sombrero Dergi’nin üçünc
 
 + **Yıldız Dönüşüyor - Instagram:** https://instagram.com/yildizdonusuyor
 + **YTÜ Hayvan Hakları Kulübü - Instagram:** https://instagram.com/ytuhayhak
++ **YTÜ Hayvan Hakları Kulübü - Twitter:** https://twitter.com/ytuhayhak
 + **YTÜ Hayvan Hakları Kulübü - LinkedIn:** https://linkedin.com/company/yildizhayvanhaklarikulubu
 + **YTÜ Hayvan Hakları Kulübü - Web Sayfası:** https://ytuhayhak.carrd.co
++ **YTÜ Hayvan Hakları Kulübü - E-Posta:** ytuhayhak@gmail.com
 + **YTÜ Hayvan Hakları Kulübü - Diğer Bağlantılar:** https://linktr.ee/ytuhayhak
