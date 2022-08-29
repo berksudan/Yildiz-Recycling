@@ -138,11 +138,11 @@ Belediyesi'nin geri dönüşüm aracına veriliyor.
   #1**: [Bağlantı](./Tanıtım%20Afişleri%20ve%20Tanıtım%20Metni/Tanıtım%20Haber%20Metni.pdf).
 + **2018-19 - Proje Tanıtım Metni #2**: [Bağlantı](./Tanıtım%20Afişleri%20ve%20Tanıtım%20Metni/Tanıtım%20Metni%202.pdf).
 
-+ 2018-19 Bahar Dönemi - Tanıtım Afişi:
++ **2018-19 Bahar Dönemi - Tanıtım Afişi:**
 
 <img src="./Tanıtım Afişleri ve Tanıtım Metni/Bahar Dönemi - Tanıtım Afişi.png" alt="2018-19 Bahar Dönemi - Tanıtım Afişi"  width="66%" />
 
-+ 2018-19 Güz Dönemi - Tanıtım Afişi:
++ **2018-19 Güz Dönemi - Tanıtım Afişi:**
 
 <img src="./Tanıtım Afişleri ve Tanıtım Metni/Güz Dönemi - Detaylı Afiş.png" alt="2018-19 Güz Dönemi - Detaylı Afiş"  width="66%" />
 
