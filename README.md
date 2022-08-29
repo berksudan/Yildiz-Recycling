@@ -1,12 +1,43 @@
 # Yıldız Dönüşüyor — Bilgiler ve Kurallar
 
+> Yildiz Recycling - Information and Principles
+
 <div align="center">
-  <img src="./Images/logo_icon.png" width="35%">
+  <img src="./images/logo_icon.png" width="35%">
   <br>
-  <img src="./Images/logo_text.png" width="50%">
+  <img src="./images/logo_text.png" width="50%">
 </div>
 
 _________________________________________________________
+
+## Project Summary in English
+
+Yildiz Recycling Project is a social responsibility project aiming to save the environment, raise awareness for
+recycling and regain uneaten foods.
+
++ Had a huge impact in extent of recycling, animal feeding, money saving.
++ Regained more than 4 tons of uneaten and edible food for dogs in 6 months.
++ Recycled more than 3 tons of paper and more than 3 tons of plastic in 6 months.
++ Kept the record of each collected material including food, plastic, and paper.
++ Delivered all uneaten healthy food to 150 stray dogs living in Yildiz Technical University Davutpaşa Campus.
+
+## 0. Giriş
+
+Resmi rakamlara göre Dünya'daki gıdaların üçte biri çöpe gidiyor ve maalesef bu rakamlar Türkiye'de de çok farklı değil.
+Türkiye'de yüz binlerce hayvan barınaklarda bulunmakta ve bir o kadarı da sokaklarda yaşam mücadelesi vermekte. Bu
+canların birçoğu beslenememekten ve hastalıklardan yaşamlarını kaybediyor. Bu kadar yemek çöpe giderken maalesef
+sokaktaki ve barınaktaki canlar bu yemeklere ulaşamıyor. Ayrıca ülkemizde ve Dünya'da atıkların çoğalmasıyla doğamız her
+geçen gün kirleniyor. Uzmanlar geri dönüşümün öneminin her geçen gün arttığına dikkat çekiyor. Geri dönüşümle büyük
+oranda ekonomiye katkı sağlayacak atıklar; bu katkıya ek olarak toprağımızı ve suyumuzu kirletmeyerek doğamızın temiz
+kalmasını sağlayacaktır.
+
+YTÜ Ekonomi Kulübü ve YTÜ Hayvan Hakları Kulübü'nün başlatmış olduğu "Yıldız Dönüşüyor" adlı proje bu konularda
+farkındalık yaratarak hem kampüs hayvanlarını doyuruyor hem de geri dönüşüme katkı sağlıyor. Mart 2018'de başlayan
+projeyle ilk önce Yıldız Teknik Üniversitesi Davutpaşa kampüsü içerisindeki köpeklerin doyması ve kağıt/plastik geri
+dönüşümü yapılması hedeflendi. Proje; başladığı günden itibaren çok farklı kulüplerdeki ve çok farklı bölümlerdeki
+birçok Yıldız Teknik Üniversitesi öğrencisinin desteğiyle büyüdü. Yemekhanede yemek tablalarının üstündeki köpeklerin
+yiyebileceği yemekler toplanıp kampüs beslemesi yapan arkadaşlara veriliyor ve kağıt/ plastik geri dönüşümleri Esenler
+Belediyesi'nin geri dönüşüm aracına veriliyor.
 
 ## 1. Toplama Hakkında
 
@@ -49,7 +80,7 @@ _________________________________________________________
   Dönüşüyor WhatsApp grubuna atılmalıdır. Doldurulmuş örnek bir toplama tablosu aşağıdadır:
 
 <div align="center">
-  <img src="./Images/örnek _toplama_tablosu.jpg" width="30%">
+  <img src="./images/örnek _toplama_tablosu.jpg" width="30%">
 </div>
 
 + Toplama bitiminde bölgenin temiz bırakılması, toplama kutularının en uzak köşeye ağzı kapalı bir şekilde konulması ve
@@ -81,7 +112,7 @@ _________________________________________________________
 
 + Google Sheets bağlantısına ulaşmak için aşağıdaki görsele tıklayınız:
   <a href="https://docs.google.com/spreadsheets/d/1j3S_iMONYx5T3jOBBhDO8krwzHdMHT2hOFlENnvkhiU/edit?usp=sharing">
-  <img src="./Images/yemek_uygunluğu_google_sheets.gif" alt="Toplama Tablosu için Yemek Uygunluğu Bağlantısı"  width="70%" />
+  <img src="./images/yemek_uygunluğu_google_sheets.gif" alt="Toplama Tablosu için Yemek Uygunluğu Bağlantısı"  width="70%" />
   </a>
 + **Diğer
   Biçimler:** [PDF](./Köpekler%20için%20Yemek%20Uygunluğu%20Listesi/Köpekler%20için%20Yemek%20Uygunluğu%20Listesi.pdf),
@@ -92,7 +123,7 @@ _________________________________________________________
 
 + Google Sheets bağlantısına ulaşmak için aşağıdaki görsele tıklayınız:
   <a href="https://docs.google.com/spreadsheets/d/16ZUqAYM5FcHIUAk2325HBlKJfnkGIY0RrrV03sLDwS0/edit?usp=sharing">
-  <img src="./Images/toplama_tablosu_google_sheets.png" alt="Toplama Tablosu için Google Sheets Bağlantısı"  width="70%" />
+  <img src="./images/toplama_tablosu_google_sheets.png" alt="Toplama Tablosu için Google Sheets Bağlantısı"  width="70%" />
   </a>
 + **Diğer
   Biçimler:** [PDF](./Toplama%20Tablosu/Toplama%20Tablosu.pdf),
@@ -101,10 +132,11 @@ _________________________________________________________
 + Önceki Toplama Tablosu Versiyonları için [bağlantıya](./Toplama%20Tablosu/Önceki%20Toplama%20Tablosu%20Versiyonları)
   tıklayınız.
 
+## 4. Tanıtım Metinleri ve Tanıtım Afişleri
 
-## 4. Tanıtım Metni ve Tanıtım Afişleri
-
-+ **2018-19 - Proje Tanıtım Metni**: [Bağlantı](./Tanıtım%20Afişleri%20ve%20Tanıtım%20Metni/Tanıtım%20Haber%20Metni.pdf).
++ **2018-19 - Proje Tanıtım Metni
+  #1**: [Bağlantı](./Tanıtım%20Afişleri%20ve%20Tanıtım%20Metni/Tanıtım%20Haber%20Metni.pdf).
++ **2018-19 - Proje Tanıtım Metni #2**: [Bağlantı](./Tanıtım%20Afişleri%20ve%20Tanıtım%20Metni/Tanıtım%20Metni%202.pdf).
 
 + 2018-19 Bahar Dönemi - Tanıtım Afişi:
 
@@ -113,8 +145,6 @@ _________________________________________________________
 + 2018-19 Güz Dönemi - Tanıtım Afişi:
 
 <img src="./Tanıtım Afişleri ve Tanıtım Metni/Güz Dönemi - Detaylı Afiş.png" alt="2018-19 Güz Dönemi - Detaylı Afiş"  width="66%" />
-
-
 
 ## 5. Basında Yıldız Dönüşüyor
 
@@ -140,6 +170,40 @@ Yazı, YTÜ öğrencileri tarafından çıkarılan Sombrero Dergi’nin üçünc
 + **Yeşil Sektör 2019 - YD Paneli İnstagram Postu:** https://www.instagram.com/p/BvbpVEEg6pD/
 + **Yeşil Sektör 2019 - YD Paneli İnstagram Postu Ekran
   Görüntüsü:** [Bağlantı](./Basında%20YD/Yeşil%20Sektör%202019%20-%20YD%20Paneli%20İnstagram%20Postu.png).
+
+## 6. Fikir Havuzu ve Gelecek Planları
+
++ Yemek dolabının (siyah dolabın) yerinin değiştirilmesi, böylece HayHak kulüp odasına girenler ilk siyah dolabı kontrol
+  edecekler.
++ 1-2 ayda bir düzenli olarak tüm önlüklerin yıkanması.
++ YD Beşiktaş kolunu başlatmak ve Kalite Verimlilik Kulübünü projeye katmak.
++ Yemekhanede peçetelikler üzerine insanların masalarda atık bırakmaması, dönüşüme gelirken atıklarını ayırmalarını
+  söyleyen yazının/afişin yapıştırılması.
++ Köpekler için Yemek Uygunluğu Listesi’nde bulunan “uygun” yemeklerin köpekler tarafından tercih edilip edilmeyeceği
+  tam olarak bilinmemekte. Bunun için toplanılması uygun olan yemeklerin köpekler tarafından tercih edilip
+  edilmeyeceğini gösteren bir sütun daha eklenebilir. Bunu yaparken YTÜ HayHak Besleme birimi ile iletişime geçilebilir.
++ **Yemek Atıkların Kompostlaştırılması:** Köpeklere uygun olmayan yemeklerin de toplanıp “kompost” hale getirilerek
+  gübre olarak okulda kullanabilmesi.
++ **Sigara İzmaritine Karşı Savaş:** akılcı bir eylem, sigara izmaritlerinin sayılıp olay yerinin fotoğrafını koyup paylaşma
+  işi, ODTÜ’de olduğu gibi.
++ **YD Yılsonu Sergisi:** Kağıt ve plastik atıklardan sanat eserleri oluşturarak bunu yıl sonunda okulda uygun bir
+  alanda sergilemek. Bunun için diğer kulüplerle de işbirliği yapılabilir.
++ **YD Tanıtım Filmi**
++ **Trash Challenge:** Çöpler toplanmadan önce/sonra fotoğraf çekilip
+  birleştirilmesi. [Linkte](https://trashtagchallenge.com/) örnekler mevcut. Challenge’da kulüpler/gruplar birbirlerine
+  meydan okuyarak rakip olabilecek. Trash Challenge, 9gag.com gibi caps paylaşılan sitelerde popüler olan bir challenge.
+  Bu challenge vasıtasıyla, projenin yurtiçi ve yurtdışı birçok yere ulaşma imkanı olabilir.
++ **Barınaklar için Atık Kağıt Çalışması:** Barınaklarda kağıt atıkların önemi büyük. Kağıt atıklar, barınaklarda kağıt
+  imha makinesine (paper shredder) sokularak parça parça ediliyor ve bu parçalar köpeklerin bulunduğu yere seriliyor.
+  Böylece hayvanların tuvaletlerini yaptıktan sonra yerlerin temizlenmesi çok kolay oluyor. YD’de dergi-gazete-kağıt
+  gibi atıkların toplanması ve Hayvan Hakları Kulübü’nün de yardımıyla böyle bir çalışma yürütülebilir. Kağıt atıklar;
+  okuldaki tüm bölüm sekreterliklerinden, tüm kırtasiyelerden talep edilerek toplanabilir. Önceden bu şekilde
+  toplanmıştı. Ayrıca Üsküdar Belediyesi 2018’de Hayvan Hakları Kulübü’ne kulübün onlara atık kağıt sağlaması
+  karşılığında ilaç yardımı yapabileceğini söylemişti.
++ **Müsvedde Kağıt Çalışması:** Tek tarafı boş olan A4’lerin toplanacağı bir kutu konarak buradan insanların not almak
+  için veya ders çalışmak için kullanacakları müsvedde kağıtlar temin etmesi sağlanabilir. Kağıtlar sekreterlik ve
+  kırtasiyelerden sağlanabilir. Bu 2018/2019 ilk döneminde yapıldı, [linkte](images/müsvedde_kağıt_yazısı.jpeg)
+  mevcut. Kutu üstüne yazılan yazı, bu [linkte](./Müsvedde%20Kağıt%20Geri%20Dönüşümü%20için%20Yazı.pdf).
 
 ## İletişim
 
