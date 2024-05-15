@@ -103,7 +103,7 @@ Belediyesi'nin geri dönüşüm aracına veriliyor.
 ### 2.2 Bağlantılar
 
 + Google Sheets bağlantısına ulaşmak için aşağıdaki görsele tıklayınız:
-  <a href="https://docs.google.com/spreadsheets/d/1j3S_iMONYx5T3jOBBhDO8krwzHdMHT2hOFlENnvkhiU/edit?usp=sharing">
+  <a href="https://docs.google.com/spreadsheets/d/1KSdI427PdSd5ZpbGE96Sa2l90ChS8N14kJB822b-39I">
   <img src="./images/yemek_uygunluğu_google_sheets.gif" alt="Toplama Tablosu için Yemek Uygunluğu Bağlantısı"  width="70%" />
   </a>
 + **Diğer
