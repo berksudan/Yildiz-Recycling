@@ -212,10 +212,7 @@ ulaşabilirsiniz.
   önlüklerin yıkanması.
 + Bu [kutular](images/önlükler_kutular.jpg) gibi kutuların geri gelmesi sağlanabilir ver kutulara özel yazılar (örn. "
   Kağıt", "Plastik", "Yemek") yeniden bastırılabilir.
-+ YD Beşiktaş kolunu başlatmak
-    + YD Beşiktaş izni
-    + YD Beşiktaş koordinatörü belirleme
-    + YD Beşiktaş için Whatsapp grubu açma
++ YD Beşiktaş kolunu başlatmak: Resmi izin, koordinatör belirleme, YD Beşiktaş için Whatsapp grubu açma.
 + Kalite Verimlilik Kulübünü ve diğer ilgili kulüpleri projeye katmak.
 + Yemekhanede peçetelikler üzerine insanların masalarda atık bırakmaması, dönüşüme gelirken atıklarını ayırmalarını
   söyleyen yazının/afişin yapıştırılması.
