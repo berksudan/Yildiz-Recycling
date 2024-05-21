@@ -161,7 +161,7 @@ Belediyesi'nin geri dönüşüm aracına veriliyor.
 
 + 2017 - 2018 Güz Dönemi (9.10.2018 - 11.1.2019) arası kümülatif toplama verileri için aşağıdaki görsele tıklayınız:
 
-  <a href="Toplama%20Verileri/Kümülatif%20Toplama%20Verileri.pdf"> <img src="./images/kümülatif_günlük_toplama_verileri.png" width="80%"> </a>
+  <a href="./Toplama%20Verileri/2017-18%20Güz%20-%20Kümülatif%20Toplama%20Verileri.pdf"> <img src="./images/kümülatif_günlük_toplama_verileri.png" width="80%"> </a>
 
 + 2017 - 2018 Güz Dönemi (9.10.2018 - 08.03.2019) arası haftalık toplama verileri için tıklayınız:
   [2017-18 Güz - Haftalık Toplama Verileri.pdf](./Toplama%20Verileri/2017-18%20Güz%20-%20Haftalık%20Toplama%20Verileri.pdf).
