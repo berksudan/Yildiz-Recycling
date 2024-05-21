@@ -72,7 +72,7 @@ Belediyesi'nin geri dönüşüm aracına veriliyor.
   Dönüşüyor WhatsApp grubuna atılmalıdır. Doldurulmuş örnek bir toplama tablosu aşağıdadır:
 
 <div align="center">
-  <img src="./images/örnek _toplama_tablosu.jpg" width="30%">
+  <img src="./images/örnek_toplama_tablosu.jpg" width="30%">
 </div>
 
 + Toplama bitiminde bölgenin temiz bırakılması, toplama kutularının en uzak köşeye ağzı kapalı bir şekilde konulması ve
@@ -126,9 +126,11 @@ Belediyesi'nin geri dönüşüm aracına veriliyor.
 
 ## 4. Tanıtım Metinleri ve Tanıtım Afişleri
 
-+ **2018-19 - Proje Tanıtım Metni
-  #1**: [Bağlantı](./Tanıtım%20Afişleri%20ve%20Tanıtım%20Metni/Tanıtım%20Haber%20Metni.pdf).
-+ **2018-19 - Proje Tanıtım Metni #2**: [Bağlantı](./Tanıtım%20Afişleri%20ve%20Tanıtım%20Metni/Tanıtım%20Metni%202.pdf).
++ **2018-19 - Proje Tanıtım Haber Metni**:
+  [Bağlantı](./Tanıtım%20Afişleri%20ve%20Tanıtım%20Metni/Tanıtım%20Haber%20Metni.pdf).
+
++ **2018-19 - Proje Tanıtım Metni**:
+  [Bağlantı](./Tanıtım%20Afişleri%20ve%20Tanıtım%20Metni/Proje%20Tanıtım%20Yazısı.pdf).
 
 + **2018-19 Bahar Dönemi - Tanıtım Afişi:**
 
@@ -163,12 +165,26 @@ Yazı, YTÜ öğrencileri tarafından çıkarılan Sombrero Dergi’nin üçünc
 + **Yeşil Sektör 2019 - YD Paneli İnstagram Postu Ekran
   Görüntüsü:** [Bağlantı](./Basında%20YD/Yeşil%20Sektör%202019%20-%20YD%20Paneli%20İnstagram%20Postu.png).
 
-## 6. Fikir Havuzu ve Gelecek Planları
+## 6. Toplamalardan Fotoğraflar
+
+Kişisel verilerin korunması gereğince yüzler bulanıklaştırılmıştır.
+
+![toplama_foto1](./images/toplama_foto1.jpg)
+![toplama_foto2](./images/toplama_foto2.jpg)
+![toplama_foto3](./images/toplama_foto3.jpg)
+![toplama_foto4](./images/toplama_foto4.jpg)
+
+## 7. Fikir Havuzu ve Gelecek Planları
 
 + Yemek dolabının (siyah dolabın) yerinin değiştirilmesi, böylece HayHak kulüp odasına girenler ilk siyah dolabı kontrol
   edecekler.
-+ 1-2 ayda bir düzenli olarak tüm önlüklerin yıkanması.
-+ YD Beşiktaş kolunu başlatmak ve Kalite Verimlilik Kulübünü projeye katmak.
++ Bu [önlükler](images/önlükler.jpg) gibi yeni YD önlüklerinin bastırılması ve 1-2 ayda bir düzenli olarak tüm
+  önlüklerin yıkanması.
++ YD Beşiktaş kolunu başlatmak
+    + YD Beşiktaş izni
+    + YD Beşiktaş koordinatörü belirleme
+    + YD Beşiktaş için Whatsapp grubu açma
++ Kalite Verimlilik Kulübünü projeye katmak.
 + Yemekhanede peçetelikler üzerine insanların masalarda atık bırakmaması, dönüşüme gelirken atıklarını ayırmalarını
   söyleyen yazının/afişin yapıştırılması.
 + Köpekler için Yemek Uygunluğu Listesi’nde bulunan “uygun” yemeklerin köpekler tarafından tercih edilip edilmeyeceği
@@ -176,8 +192,8 @@ Yazı, YTÜ öğrencileri tarafından çıkarılan Sombrero Dergi’nin üçünc
   edilmeyeceğini gösteren bir sütun daha eklenebilir. Bunu yaparken YTÜ HayHak Besleme birimi ile iletişime geçilebilir.
 + **Yemek Atıkların Kompostlaştırılması:** Köpeklere uygun olmayan yemeklerin de toplanıp “kompost” hale getirilerek
   gübre olarak okulda kullanabilmesi.
-+ **Sigara İzmaritine Karşı Savaş:** akılcı bir eylem, sigara izmaritlerinin sayılıp olay yerinin fotoğrafını koyup paylaşma
-  işi, ODTÜ’de olduğu gibi.
++ **Sigara İzmaritine Karşı Savaş:** akılcı bir eylem, sigara izmaritlerinin sayılıp olay yerinin fotoğrafını koyup
+  paylaşma işi, ODTÜ’de olduğu gibi.
 + **YD Yılsonu Sergisi:** Kağıt ve plastik atıklardan sanat eserleri oluşturarak bunu yıl sonunda okulda uygun bir
   alanda sergilemek. Bunun için diğer kulüplerle de işbirliği yapılabilir.
 + **YD Tanıtım Filmi**
