@@ -250,10 +250,7 @@ ulaşabilirsiniz.
 + Roll-up banner bastırılabilir.
 + Çevre Kulübü ve Çevre Mühendisliği'nin Yeşil Sektör etkinliğinde Yıldız Dönüşüyor ile bardaklardan tasarım
   yapılabilir.
-+ Aşağıdaki işler için sponsor aranabilir:
-    + Eldiven ve ıslak mendil tedariği
-    + Önlük basımı
-    + Roll up banner
++ Bu işler için sponsor aranabilir: Eldiven ve ıslak mendil tedariği, önlük basımı, roll up banner
 + Temizlik ve basım malzemeleri için destekçi kulüpler arasında ortak bütçe yapılabilir. Mesela her kulüp aylık 500 TL
   katkı sağlayabilir.
 + YTÜ Sanat Tasarım Fakültesi ile konuşup toplanan atıklardan (kağıt, bardak, plastik, vs.) atölye düzenlenerek sanat
