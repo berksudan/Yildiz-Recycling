@@ -260,7 +260,7 @@ ulaşabilirsiniz.
 
 + **Yıldız Dönüşüyor - Instagram:** https://instagram.com/yildizdonusuyor
 + **YTÜ Hayvan Hakları Kulübü - Instagram:** https://instagram.com/ytuhayhak
-+ **YTÜ Hayvan Hakları Kulübü - Twitter:** https://twitter.com/ytuhayhak
++ **YTÜ Hayvan Hakları Kulübü - X (Old Twitter):** https://x.com/ytuhayhak
 + **YTÜ Hayvan Hakları Kulübü - LinkedIn:** https://linkedin.com/company/yildizhayvanhaklarikulubu
 + **YTÜ Hayvan Hakları Kulübü - Web Sayfası:** https://ytuhayhak.carrd.co
 + **YTÜ Hayvan Hakları Kulübü - E-Posta:** [ytuhayhak@gmail.com](mailto:ytuhayhak@gmail.com)
