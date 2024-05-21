@@ -204,14 +204,7 @@ ulaşabilirsiniz.
   <img src="./images/toplama_fotolari/toplama_foto3.jpg" alt="toplama_foto3" width="60%" />
   <img src="./images/toplama_fotolari/toplama_foto4.jpg" alt="toplama_foto4" width="60%" />
 
-## 8. Toplama Afişleri
-
-<div align="center">
-  <img src="./images/logo_icon.png" width="35%">
-  <img src="./images/logo_text.png" width="50%">
-</div>
-
-## 9. Fikir Havuzu ve Gelecek Planları
+## 8. Fikir Havuzu ve Gelecek Planları
 
 + Yemek dolabının (siyah dolabın) yerinin değiştirilmesi, böylece HayHak kulüp odasına girenler ilk siyah dolabı kontrol
   edecekler.
