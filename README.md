@@ -37,9 +37,9 @@ Belediyesi'nin geri dönüşüm aracına veriliyor.
 
 ### 1.1 Genel Bilgiler
 
-+ Toplama, sınav haftaları hariç hafta içi her gün (öğlen ve akşam) yapılacaktır. Vize ve final haftaları toplamamız ya
++ Toplama, sınav haftaları hariç hafta içi her gün (öğlen ve akşam) yapılacaktır. Vize ve final haftaları toplama ya
   yapılmayacaktır ya da isteğe göre yapılacaktır.
-+ Bu iş tamamen gönüllü işidir ve hiçbir menfaat/ karşılık beklenemez, talep edilemez.
++ Bu iş tamamen gönüllü işidir ve hiçbir menfaat veya karşılık beklenemez, talep edilemez.
 + Proje, yönetim kademesinde 4 kulübün (YTÜ SoS, YTÜ HayHak, YTÜ ÇEV, YTÜ Ekon) desteğiyle gerçekleşse de projeye
   katılımda hiçbir kısıt/ sınırlama yoktur. Projeye katılım için hiçbir kulübe üye olunması gerekmez.
 + Güncel Görev Paylaşım Tablosu'nda eğer o gün toplama yapması gereken kişilerden hiçbiri toplama yapamayacaksa; bu
@@ -52,6 +52,9 @@ Belediyesi'nin geri dönüşüm aracına veriliyor.
 + Her türlü problem ve iletişim için "Yıldız Dönüşüyor" WhatsApp grubunun yöneticilerine ulaşılmalıdır.
 
 ### 1.2 Toplama Esnasında
+
++ Aşağıdakine benzer Görev Paylaşım Tablosu'nu kontrol ediniz ve tabloyu güncel tutunuz:
+  <div> <img src="./images/örnek_görev_paylaşım_tablosu.png" width=90%> </div>
 
 + Toplama esnasında, insanlar çok bekletilmemelidir. İnsanların tablalarını teslim ederken ekstra beklememesi için;
   tabla teslim sırasında halihazırda bekleyen kişilerden toplama yapılmalıdır. Sıranın çok fazla olduğu durumlarda
