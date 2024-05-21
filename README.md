@@ -72,7 +72,7 @@ Belediyesi'nin geri dönüşüm aracına veriliyor.
   Dönüşüyor WhatsApp grubuna atılmalıdır. Doldurulmuş örnek bir toplama tablosu aşağıdadır:
 
 <div align="center">
-  <img src="./images/örnek_toplama_tablosu.jpg" width="30%">
+  <img src="./images/örnek_toplama_tablosu.jpg" width="50%">
 </div>
 
 + Toplama bitiminde bölgenin temiz bırakılması, toplama kutularının en uzak köşeye ağzı kapalı bir şekilde konulması ve
@@ -125,7 +125,7 @@ Belediyesi'nin geri dönüşüm aracına veriliyor.
 + Önceki Toplama Tablosu Versiyonları için [bağlantıya](./Toplama%20Tablosu/Önceki%20Toplama%20Tablosu%20Versiyonları)
   tıklayınız.
 
-## 4. Tanıtım Metinleri ve Tanıtım Afişleri
+## 4. Tanıtım Metinleri ve Toplama Afişleri
 
 + **2018-19 - Proje Tanıtım Haber Metni**:
   [Bağlantı](./Tanıtım%20Afişleri%20ve%20Tanıtım%20Metni/Tanıtım%20Haber%20Metni.pdf).
@@ -133,21 +133,41 @@ Belediyesi'nin geri dönüşüm aracına veriliyor.
 + **2018-19 - Proje Tanıtım Metni**:
   [Bağlantı](./Tanıtım%20Afişleri%20ve%20Tanıtım%20Metni/Proje%20Tanıtım%20Yazısı.pdf).
 
-+ **2018-19 Bahar Dönemi - Tanıtım Afişi:**
++ **2018-19 Bahar Dönemi - Toplama Afişi 1:**
 
-<img src="./Tanıtım Afişleri ve Tanıtım Metni/Bahar Dönemi - Tanıtım Afişi.png" alt="2018-19 Bahar Dönemi - Tanıtım Afişi" width="66%" />
+  <img src="./Tanıtım Afişleri ve Tanıtım Metni/Bahar Dönemi - Tanıtım Afişi 1.png" width="70%" />
+
++ **2018-19 Bahar Dönemi - Toplama Afişi 2:**
+
+  <img src="./Tanıtım Afişleri ve Tanıtım Metni/Bahar Dönemi - Tanıtım Afişi 2.png" width="70%" />
+
++ **2018-19 Bahar Dönemi - Toplama Afişi 3:**
+
+  <img src="./Tanıtım Afişleri ve Tanıtım Metni/Bahar Dönemi - Tanıtım Afişi 3.png" width="70%" />
+
++ **2018-19 Bahar Dönemi - Toplama Afişi 4:**
+
+  <img src="./Tanıtım Afişleri ve Tanıtım Metni/Bahar Dönemi - Tanıtım Afişi 4.jpg" width="70%" />
 
 + **2018-19 Güz Dönemi - Tanıtım Afişi:**
 
-<img src="./Tanıtım Afişleri ve Tanıtım Metni/Güz Dönemi - Detaylı Afiş.png" alt="Güz Detaylı Afiş" width="70%"/>
+  <img src="./Tanıtım Afişleri ve Tanıtım Metni/Güz Dönemi - Detaylı Afiş.png" width="70%"/>
+
++ **2018-19 Güz Dönemi - Toplama Afişi:**
+
+  <img src="./Tanıtım Afişleri ve Tanıtım Metni/Bahar Dönemi - Toplama Afişi.png" width="70%"/>
 
 ## 5. Toplama Verileri
 
-+ 9.10.2018 - 11.1.2019 arası tüm günlük toplama verileri için aşağıdaki görsele tıklayınız:
++ 2017 - 2018 Güz Dönemi (9.10.2018 - 11.1.2019) arası kümülatif toplama verileri için aşağıdaki görsele tıklayınız:
 
-<a href="Toplama%20Verileri/Kümülatif%20Toplama%20Verileri.pdf">
-  <img src="./images/kümülatif_günlük_toplama_verileri.png" alt="Kümülatif Günlük Toplama Verileri" width="80%">
-</a>
+  <a href="Toplama%20Verileri/Kümülatif%20Toplama%20Verileri.pdf"> <img src="./images/kümülatif_günlük_toplama_verileri.png" width="80%"> </a>
+
++ 2017 - 2018 Güz Dönemi (9.10.2018 - 08.03.2019) arası haftalık toplama verileri için tıklayınız:
+  [2017-18 Güz - Haftalık Toplama Verileri.pdf](./Toplama%20Verileri/2017-18%20Güz%20-%20Haftalık%20Toplama%20Verileri.pdf).
+
++ 2017 - 2018 Bahar Dönemi (14.03.2018 - 11.05.2018) kümülatif toplama verileri ve infografikler için tıklayınız:
+  [2017-18 Bahar - Kümülatif Toplama Verileri.pdf](./Toplama%20Verileri/2017-18%20Bahar%20-%20Kümülatif%20Toplama%20Verileri.pdf).
 
 ## 6. Basında Yıldız Dönüşüyor
 
@@ -179,10 +199,10 @@ Yazı, YTÜ öğrencileri tarafından çıkarılan Sombrero Dergi’nin üçünc
 Kişisel verilerin korunması gereğince yüzler bulanıklaştırılmıştır. Diğer fotoğraflar ve videolar için bana
 ulaşabilirsiniz.
 
-<img src="./images/toplama_fotolari/toplama_foto1.jpg" alt="toplama_foto1" width="70%" />
-<img src="./images/toplama_fotolari/toplama_foto2.jpg" alt="toplama_foto2" width="60%" />
-<img src="./images/toplama_fotolari/toplama_foto3.jpg" alt="toplama_foto3" width="60%" />
-<img src="./images/toplama_fotolari/toplama_foto4.jpg" alt="toplama_foto4" width="60%" />
+  <img src="./images/toplama_fotolari/toplama_foto1.jpg" alt="toplama_foto1" width="70%" />
+  <img src="./images/toplama_fotolari/toplama_foto2.jpg" alt="toplama_foto2" width="60%" />
+  <img src="./images/toplama_fotolari/toplama_foto3.jpg" alt="toplama_foto3" width="60%" />
+  <img src="./images/toplama_fotolari/toplama_foto4.jpg" alt="toplama_foto4" width="60%" />
 
 ## 8. Toplama Afişleri
 
@@ -230,8 +250,9 @@ ulaşabilirsiniz.
 + **Müsvedde Kağıt Çalışması:** Tek tarafı boş olan A4’lerin toplanacağı bir kutu konarak buradan insanların not almak
   için veya ders çalışmak için kullanacakları müsvedde kağıtlar temin etmesi sağlanabilir. Kağıtlar sekreterlik ve
   kırtasiyelerden sağlanabilir. Bu 2018/2019 ilk döneminde yapıldı, [linkte](images/müsvedde_kağıt_yazısı.jpeg)
-  mevcut. Kutu üstüne yazılan yazı, bu [linkte](./Müsvedde%20Kağıt%20Geri%20Dönüşümü%20için%20Yazı.pdf).
-+ Önceden olduğu gibi ([eski katılım belgesi](./images/katılım_belgesi.JPG)) belli bir sayıda (örneğin en az on kere)
+  mevcut. Kutu üstüne yazılan yazı, bu [linkte](./images/Müsvedde%20Kağıt%20Geri%20Dönüşümü%20için%20Yazı.jpg).
++ Önceden olduğu gibi ([eski katılım belgesi #1](./images/katılım_belgesi_1.jpg),
+  [eski katılım belgesi #2](./images/katılım_belgesi_2.jpg)) belli bir sayıda (örneğin en az on kere)
   toplama yapana katılım belgesi (sertifika) verilebilir.
 + Roll-up banner bastırılabilir.
 + Çevre Kulübü ve Çevre Mühendisliği'nin Yeşil Sektör etkinliğinde Yıldız Dönüşüyor ile bardaklardan tasarım
