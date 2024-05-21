@@ -103,9 +103,10 @@ Belediyesi'nin geri dönüşüm aracına veriliyor.
 ### 2.2 Bağlantılar
 
 + Google Sheets bağlantısına ulaşmak için aşağıdaki görsele tıklayınız:
-  <a href="https://docs.google.com/spreadsheets/d/1KSdI427PdSd5ZpbGE96Sa2l90ChS8N14kJB822b-39I">
-  <img src="./images/yemek_uygunluğu_google_sheets.gif" alt="Toplama Tablosu için Yemek Uygunluğu Bağlantısı"  width="70%" />
-  </a>
+
+<a href="https://docs.google.com/spreadsheets/d/1KSdI427PdSd5ZpbGE96Sa2l90ChS8N14kJB822b-39I">
+<img src="./images/yemek_uygunluğu_google_sheets.gif" alt="Toplama Tablosu için Yemek Uygunluğu Bağlantısı"/></a>
+
 + **Diğer
   Biçimler:** [PDF](./Köpekler%20için%20Yemek%20Uygunluğu%20Listesi/Köpekler%20için%20Yemek%20Uygunluğu%20Listesi.pdf),
   [ODS](./Köpekler%20için%20Yemek%20Uygunluğu%20Listesi/Köpekler%20için%20Yemek%20Uygunluğu%20Listesi.ods),
@@ -115,7 +116,7 @@ Belediyesi'nin geri dönüşüm aracına veriliyor.
 
 + Google Sheets bağlantısına ulaşmak için aşağıdaki görsele tıklayınız:
   <a href="https://docs.google.com/spreadsheets/d/16ZUqAYM5FcHIUAk2325HBlKJfnkGIY0RrrV03sLDwS0/edit?usp=sharing">
-  <img src="./images/toplama_tablosu_google_sheets.png" alt="Toplama Tablosu için Google Sheets Bağlantısı"  width="70%" />
+  <img src="./images/toplama_tablosu_google_sheets.png" alt="Toplama Tablosu için Google Sheets Bağlantısı"/>
   </a>
 + **Diğer
   Biçimler:** [PDF](./Toplama%20Tablosu/Toplama%20Tablosu.pdf),
@@ -134,57 +135,76 @@ Belediyesi'nin geri dönüşüm aracına veriliyor.
 
 + **2018-19 Bahar Dönemi - Tanıtım Afişi:**
 
-<img src="./Tanıtım Afişleri ve Tanıtım Metni/Bahar Dönemi - Tanıtım Afişi.png" alt="2018-19 Bahar Dönemi - Tanıtım Afişi"  width="66%" />
+<img src="./Tanıtım Afişleri ve Tanıtım Metni/Bahar Dönemi - Tanıtım Afişi.png"
+alt="2018-19 Bahar Dönemi - Tanıtım Afişi"  width="66%" />
 
 + **2018-19 Güz Dönemi - Tanıtım Afişi:**
 
-<img src="./Tanıtım Afişleri ve Tanıtım Metni/Güz Dönemi - Detaylı Afiş.png" alt="2018-19 Güz Dönemi - Detaylı Afiş"  width="66%" />
+<img src="./Tanıtım Afişleri ve Tanıtım Metni/Güz Dönemi - Detaylı Afiş.png" alt="2018-19 Güz Dönemi - Detaylı Afiş"/>
 
-## 5. Basında Yıldız Dönüşüyor
+## 5. Toplama Verileri
 
-### 5.1 YTÜ Kampüs (23.03.2018)
++ 9.10.2018 - 11.1.2019 arası tüm günlük toplama verileri için aşağıdaki görsele tıklayınız:
+
+<a href="Toplama%20Verileri/Kümülatif%20Toplama%20Verileri.pdf">
+  <img src="./images/kümülatif_günlük_toplama_verileri.png" alt="Kümülatif Günlük Toplama Verileri">
+</a>
+
+## 6. Basında Yıldız Dönüşüyor
+
+### 6.1 YTÜ Kampüs (23.03.2018)
 
 + **Haber Bağlantısı:** https://www.ytukampus.com/konu/yildiz-donusuyor-projesi-ile-geri-donusum/
 + **Haber Sayfası Ekran Görüntüsü:** [Bağlantı](./Basında%20YD/YTÜ%20Kampüs%20YD%20Haberi.pdf).
 
-### 5.2 Sombrero Dergisi (09.06.2018)
+### 6.2 Sombrero Dergisi (09.06.2018)
 
 Yazı, YTÜ öğrencileri tarafından çıkarılan Sombrero Dergi’nin üçüncü sayısında yer almıştır.
 
 + **Dergi Yazısı:** [Bağlantı](./Basında%20YD/Sombrero%20Dergisi%20YD%20Yazısı.pdf).
 
-### 5.3 Çevreci Geek Ropörtajı (12.11.2018):
+### 6.3 Çevreci Geek Ropörtajı (12.11.2018):
 
 + **Haber Bağlantısı:**
-  https://www.cevrecigeek.com/yildiz-donusuyor-yildiz-teknik-universitesi-ogrenciler-yaklasik-1-5-ton-atigi-geri-donusturdu/
+  https://cevrecigeek.com/yildiz-donusuyor-yildiz-teknik-universitesi-ogrenciler-yaklasik-1-5-ton-atigi-geri-donusturdu/
 + **Haber Sayfası Ekran Görüntüsü:** [Bağlantı](./Basında%20YD/Çevreci%20Geek%20Ropörtajı.pdf).
 
-### 5.4 Yeşil Sektör 2019 - Yıldız Dönüşüyor Paneli (25.03.2019):
+### 6.4 Yeşil Sektör 2019 - Yıldız Dönüşüyor Paneli (25.03.2019):
 
 + **Yeşil Sektör 2019 - YD Paneli İnstagram Postu:** https://www.instagram.com/p/BvbpVEEg6pD/
 + **Yeşil Sektör 2019 - YD Paneli İnstagram Postu Ekran
   Görüntüsü:** [Bağlantı](./Basında%20YD/Yeşil%20Sektör%202019%20-%20YD%20Paneli%20İnstagram%20Postu.png).
 
-## 6. Toplamalardan Fotoğraflar
+## 7. Toplamalardan Fotoğraflar
 
-Kişisel verilerin korunması gereğince yüzler bulanıklaştırılmıştır.
+Kişisel verilerin korunması gereğince yüzler bulanıklaştırılmıştır. Diğer fotoğraflar ve videolar için bana
+ulaşabilirsiniz.
 
-![toplama_foto1](./images/toplama_foto1.jpg)
-![toplama_foto2](./images/toplama_foto2.jpg)
-![toplama_foto3](./images/toplama_foto3.jpg)
-![toplama_foto4](./images/toplama_foto4.jpg)
+![toplama_foto1](images/toplama_fotolari/toplama_foto1.jpg)
+![toplama_foto2](images/toplama_fotolari/toplama_foto2.jpg)
+![toplama_foto3](images/toplama_fotolari/toplama_foto3.jpg)
+![toplama_foto4](images/toplama_fotolari/toplama_foto4.jpg)
 
-## 7. Fikir Havuzu ve Gelecek Planları
+## 8. Toplama Afişleri
+
+<div align="center">
+  <img src="./images/logo_icon.png" width="35%">
+  <img src="./images/logo_text.png" width="50%">
+</div>
+
+## 9. Fikir Havuzu ve Gelecek Planları
 
 + Yemek dolabının (siyah dolabın) yerinin değiştirilmesi, böylece HayHak kulüp odasına girenler ilk siyah dolabı kontrol
   edecekler.
-+ Bu [önlükler](images/önlükler.jpg) gibi yeni YD önlüklerinin bastırılması ve 1-2 ayda bir düzenli olarak tüm
++ Bu [önlükler](images/önlükler_kutular.jpg) gibi yeni YD önlüklerinin bastırılması ve 1-2 ayda bir düzenli olarak tüm
   önlüklerin yıkanması.
++ Bu [kutular](images/önlükler_kutular.jpg) gibi kutuların geri gelmesi sağlanabilir ver kutulara özel yazılar (örn. "
+  Kağıt", "Plastik", "Yemek") yeniden bastırılabilir.
 + YD Beşiktaş kolunu başlatmak
     + YD Beşiktaş izni
     + YD Beşiktaş koordinatörü belirleme
     + YD Beşiktaş için Whatsapp grubu açma
-+ Kalite Verimlilik Kulübünü projeye katmak.
++ Kalite Verimlilik Kulübünü ve diğer ilgili kulüpleri projeye katmak.
 + Yemekhanede peçetelikler üzerine insanların masalarda atık bırakmaması, dönüşüme gelirken atıklarını ayırmalarını
   söyleyen yazının/afişin yapıştırılması.
 + Köpekler için Yemek Uygunluğu Listesi’nde bulunan “uygun” yemeklerin köpekler tarafından tercih edilip edilmeyeceği
@@ -212,6 +232,22 @@ Kişisel verilerin korunması gereğince yüzler bulanıklaştırılmıştır.
   için veya ders çalışmak için kullanacakları müsvedde kağıtlar temin etmesi sağlanabilir. Kağıtlar sekreterlik ve
   kırtasiyelerden sağlanabilir. Bu 2018/2019 ilk döneminde yapıldı, [linkte](images/müsvedde_kağıt_yazısı.jpeg)
   mevcut. Kutu üstüne yazılan yazı, bu [linkte](./Müsvedde%20Kağıt%20Geri%20Dönüşümü%20için%20Yazı.pdf).
++ Önceden olduğu gibi ([eski katılım belgesi](./images/katılım_belgesi.JPG)) belli bir sayıda (örneğin en az on kere)
+  toplama yapana katılım belgesi (sertifika) verilebilir.
++ Roll-up banner bastırılabilir.
++ Çevre Kulübü ve Çevre Mühendisliği'nin Yeşil Sektör etkinliğinde Yıldız Dönüşüyor ile bardaklardan tasarım
+  yapılabilir.
++ Aşağıdaki işler için sponsor aranabilir:
+    + Eldiven ve ıslak mendil tedariği
+    + Önlük basımı
+    + Roll up banner
++ Temizlik ve basım malzemeleri için destekçi kulüpler arasında ortak bütçe yapılabilir. Mesela her kulüp aylık 500 TL
+  katkı sağlayabilir.
++ YTÜ Sanat Tasarım Fakültesi ile konuşup toplanan atıklardan (kağıt, bardak, plastik, vs.) atölye düzenlenerek sanat
+  eserleri oluşturmak.
++ QR kodlu afişle insanların projeye katılımının hızlandırılması ve proje hakkında hızlı bilgi alınması sağlanabilir.
++ Çevre Kulübü ile geri dönüşüm fabrikası ziyaret edilebilir.
++ Diğer üniversitelerin Yıldız Dönüşüyor'a başlaması için e-posta atılabilir.
 
 ## İletişim
 
@@ -220,5 +256,18 @@ Kişisel verilerin korunması gereğince yüzler bulanıklaştırılmıştır.
 + **YTÜ Hayvan Hakları Kulübü - Twitter:** https://twitter.com/ytuhayhak
 + **YTÜ Hayvan Hakları Kulübü - LinkedIn:** https://linkedin.com/company/yildizhayvanhaklarikulubu
 + **YTÜ Hayvan Hakları Kulübü - Web Sayfası:** https://ytuhayhak.carrd.co
-+ **YTÜ Hayvan Hakları Kulübü - E-Posta:** ytuhayhak@gmail.com
++ **YTÜ Hayvan Hakları Kulübü - E-Posta:** [ytuhayhak@gmail.com](mailto:ytuhayhak@gmail.com)
 + **YTÜ Hayvan Hakları Kulübü - Diğer Bağlantılar:** https://linktr.ee/ytuhayhak
++ **YD 2017 - 2018 Organizasyon Komitesi:**
+    - Berk Sudan (Hayvan Hakları Yönetim Kurulu Üyesi & Proje Sorumlusu #1)
+    - Yusuf Şebin (Ekonomi Kulübü Yönetim Kurulu Başkanı & Proje Sorumlusu #2)
++ **YD 2018 - 2019 Organizasyon Komitesi:**
+    - Hatice Akca (Hayvan Hakları Yönetim Kurulu Üyesi & Proje Sorumlusu #1)
+    - Ezgi Gezen (SoS Yönetim Kurulu Üyesi & Proje Sorumlusu #2)
+    - Zeynep Orak (Çevre Kulübü Yönetim Kurulu Üyesi & Proje Sorumlusu #3)
+    - Fatma Uzun (Ekonomi Kulübü Yönetim Kurulu Üyesi & Proje Sorumlusu #4)
+    - Selin Üstündağ (Ekonomi Kulübü Yönetim Kurulu Başkanı)
+    - İrem Nur Yılmaz (Hayvan Hakları Yönetim Kurulu Başkanı)
+    - Berkay Kömür (Çevre Kulübü Başkanı)
+    - Esra Taşçı (Hayvan Hakları Yönetim Kurulu Üyesi & Besleme Sorumlusu)
+    - Berk Sudan (Proje Danışmanı)
