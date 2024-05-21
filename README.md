@@ -93,8 +93,9 @@ Belediyesi'nin geri dönüşüm aracına veriliyor.
   dair bir veritabanı sunmak amacıyla oluşturulmuştur.
 + **Listede İşaretleme Yapan Kişiler:** 2017-2018 YTÜ HayHak Başkanı ve birkaç diğer uzman. Listenin farklı kaynaklar
   tarafından tekrardan kontrol edilmesi önerilir.
-+ **Listenin Kaynağı:** Yemek listesi, 2019 yılında http://www.sks.yildiz.edu.tr/yemekmenu/ üzerinden bir program
-  yardımıyla çekilerek alınmıştır. Liste 1 Ocak 2017 ile 1 Mart 2019 arası 26 aylık zaman diliminde
++ **Listenin Kaynağı:** Yemek listesi, 2019 yılında http://sks.yildiz.edu.tr/yemekmenu
+  (örn. [bağlantı](https://web.archive.org/web/20210918104112/http://www.sks.yildiz.edu.tr/yemekmenu/9/2021)) üzerinden
+  bir program yardımıyla çekilerek alınmıştır. Liste 1 Ocak 2017 ile 1 Mart 2019 arası 26 aylık zaman diliminde
   YTÜ yemekhanelerinde çıkmış tüm yemeklerin derlenmesinden oluşmaktadır.
 + **Önemli Not:** Listede "Köpekler için alınabilir" olarak işaretlenmiş her yemeğin köpekler tarafından tercih
   edileceği kesin değildir.
