@@ -135,19 +135,18 @@ Belediyesi'nin geri dönüşüm aracına veriliyor.
 
 + **2018-19 Bahar Dönemi - Tanıtım Afişi:**
 
-<img src="./Tanıtım Afişleri ve Tanıtım Metni/Bahar Dönemi - Tanıtım Afişi.png"
-alt="2018-19 Bahar Dönemi - Tanıtım Afişi"  width="66%" />
+<img src="./Tanıtım Afişleri ve Tanıtım Metni/Bahar Dönemi - Tanıtım Afişi.png" alt="2018-19 Bahar Dönemi - Tanıtım Afişi" width="66%" />
 
 + **2018-19 Güz Dönemi - Tanıtım Afişi:**
 
-<img src="./Tanıtım Afişleri ve Tanıtım Metni/Güz Dönemi - Detaylı Afiş.png" alt="2018-19 Güz Dönemi - Detaylı Afiş"/>
+<img src="./Tanıtım Afişleri ve Tanıtım Metni/Güz Dönemi - Detaylı Afiş.png" alt="Güz Detaylı Afiş" width="70%"/>
 
 ## 5. Toplama Verileri
 
 + 9.10.2018 - 11.1.2019 arası tüm günlük toplama verileri için aşağıdaki görsele tıklayınız:
 
 <a href="Toplama%20Verileri/Kümülatif%20Toplama%20Verileri.pdf">
-  <img src="./images/kümülatif_günlük_toplama_verileri.png" alt="Kümülatif Günlük Toplama Verileri">
+  <img src="./images/kümülatif_günlük_toplama_verileri.png" alt="Kümülatif Günlük Toplama Verileri" width="80%">
 </a>
 
 ## 6. Basında Yıldız Dönüşüyor
@@ -180,10 +179,10 @@ Yazı, YTÜ öğrencileri tarafından çıkarılan Sombrero Dergi’nin üçünc
 Kişisel verilerin korunması gereğince yüzler bulanıklaştırılmıştır. Diğer fotoğraflar ve videolar için bana
 ulaşabilirsiniz.
 
-![toplama_foto1](images/toplama_fotolari/toplama_foto1.jpg)
-![toplama_foto2](images/toplama_fotolari/toplama_foto2.jpg)
-![toplama_foto3](images/toplama_fotolari/toplama_foto3.jpg)
-![toplama_foto4](images/toplama_fotolari/toplama_foto4.jpg)
+<img src="./images/toplama_fotolari/toplama_foto1.jpg" alt="toplama_foto1" width="70%" />
+<img src="./images/toplama_fotolari/toplama_foto2.jpg" alt="toplama_foto2" width="60%" />
+<img src="./images/toplama_fotolari/toplama_foto3.jpg" alt="toplama_foto3" width="60%" />
+<img src="./images/toplama_fotolari/toplama_foto4.jpg" alt="toplama_foto4" width="60%" />
 
 ## 8. Toplama Afişleri
 
