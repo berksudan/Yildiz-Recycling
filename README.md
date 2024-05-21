@@ -50,13 +50,12 @@ Belediyesi'nin geri dönüşüm aracına veriliyor.
 + Yemek, bazı öğünlerde köpeklere uygun olmaması sebebiyle toplanmayabilir. Kağıt ve plastik toplanması kesintisiz
   yapılacaktır.
 + Her türlü problem ve iletişim için "Yıldız Dönüşüyor" WhatsApp grubunun yöneticilerine ulaşılmalıdır.
-
-### 1.2 Toplama Esnasında
-
 + Aşağıdakine benzer Görev Paylaşım Tablosu'nu kontrol ediniz ve tabloyu güncel tutunuz:
   <div> <img src="./images/örnek_görev_paylaşım_tablosu.png" width=90%> </div>
 
-+ Toplama esnasında, insanlar çok bekletilmemelidir. İnsanların tablalarını teslim ederken ekstra beklememesi için;
+### 1.2 Toplama Esnasında
+
++ Toplama esnasında insanlar çok bekletilmemelidir. İnsanların tablalarını teslim ederken ekstra beklememesi için;
   tabla teslim sırasında halihazırda bekleyen kişilerden toplama yapılmalıdır. Sıranın çok fazla olduğu durumlarda
   geçici olarak toplama yapılmayabilir.
 + [Köpekler için Yemek Uygunluğu Listesi](#2-köpekler-için-yemek-uygunluğu-listesi)'nde köpekler için uygun yemekler
