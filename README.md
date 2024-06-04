@@ -80,9 +80,36 @@ Belediyesi'nin geri dönüşüm aracına veriliyor.
 + Toplama bitiminde bölgenin temiz bırakılması, toplama kutularının en uzak köşeye ağzı kapalı bir şekilde konulması ve
   toplanılan maddelerin bulunduğu poşetlerin ağzının kapalı olduğundan emin olunması gerekmektedir.
 
-## 2. Köpekler için Yemek Uygunluğu Listesi
+## 2. Besleme Hakkında
 
-### 2.1 Liste Hakkında
+1. Bu iş tamamen gönüllü işidir ve hiçbir menfaat/karşılık beklenemez, talep edilemez.
+2. Besleme en erken saat 08.00 en geç saat 18.00'de yapılmalıdır. Ancak besleme için önerilen
+saat aralığı 10.00-16.00'dır.
+3. Besleme [GÜN] [AY] [YIL] - [GÜN] [AY] [YIL] tarihleri arasında her hafta yapılacaktır ve
+beslemelerden bu süre boyunca günlere atanmış kişiler sorumludurlar.
+4. Bir gün için farklı bölgelere birden çok kişi atanmaya çalışılmaktadır. Bunun sebebi besleme
+yapanlar eğer birlikte besleme yapıyorlarsa kolaylık sağlamak, yapanlardan biri ya da birkaçı
+besleme yapamayacaksa diğer besleme yapanların gelmeyen kişi(ler) yerlerine besleme
+yapacak olmalarıdır.
+5. Eğer o gün besleme yapması gereken kişilerden hiçbiri besleme yapamayacaksa; bu kişiler
+bu durumu bildirmekten, yerlerine biri veya birileri bulmaktan, bu buldukları kişilerin beslemeyi
+yapıp yapmadığını takip etmekten ve besleme yapıldıktan sonra bunu bildirmekten
+sorumludurlar.
+6. Besleme yapanlar beslemeyi bitirdiklerinde WhatsApp grubuna yazarak bunu bildirmeliler,
+böylece karışıklıklar önlenecektir.
+7. Beslemeye daha sonradan insanlar dahil olabilir ya da beslemede olanlar yerlerine başka
+birilerini bularak kalıcı olarak beslemeden ayrılabilirler.
+8. Besleme yapanlar arkadaşlarını, dostlarını beslemeye dahil ederek daha rahat edebilirler.
+9. Beslemeler okul yönetiminin kararıyla insanların uzak olduğu yerlerde yapılmaktadır.
+10. Beslemeler, YTÜ Yönetimi onayıyla yapılmaktadır ve bu konuda hiçbir illegal durum söz
+konusu değildir.
+11. Besleme yapanların, mama konusunda tasarruflu davranması rica olunur.
+12. Besleme sırasında konteyner'daki mama kaplarının ağzı kapatılmalıdır, konteyner daima
+temiz bırakılmalıdır.
+
+## 3. Köpekler için Yemek Uygunluğu Listesi
+
+### 3.1 Liste Hakkında
 
 + **Kategoriler**: Toplam 6 kategori bulunmaktadır:
     1. Çorba
@@ -103,7 +130,7 @@ Belediyesi'nin geri dönüşüm aracına veriliyor.
   edileceği kesin değildir.
   Köpeklerin çok fazla tercih etmediği yiyeceklerin toplanmaması önerilmektedir.
 
-### 2.2 Bağlantılar
+### 3.2 Bağlantılar
 
 + Google Sheets bağlantısına ulaşmak için aşağıdaki görsele tıklayınız:
 
@@ -115,7 +142,7 @@ Belediyesi'nin geri dönüşüm aracına veriliyor.
   [ODS](./Köpekler%20için%20Yemek%20Uygunluğu%20Listesi/Köpekler%20için%20Yemek%20Uygunluğu%20Listesi.ods),
   [XLSX](./Köpekler%20için%20Yemek%20Uygunluğu%20Listesi/Köpekler%20için%20Yemek%20Uygunluğu%20Listesi.xlsx).
 
-## 3. Toplama Tablosu
+## 4. Toplama Tablosu
 
 + Google Sheets bağlantısına ulaşmak için aşağıdaki görsele tıklayınız:
   <a href="https://docs.google.com/spreadsheets/d/16ZUqAYM5FcHIUAk2325HBlKJfnkGIY0RrrV03sLDwS0/edit?usp=sharing">
@@ -128,7 +155,7 @@ Belediyesi'nin geri dönüşüm aracına veriliyor.
 + Önceki Toplama Tablosu Versiyonları için [bağlantıya](./Toplama%20Tablosu/Önceki%20Toplama%20Tablosu%20Versiyonları)
   tıklayınız.
 
-## 4. Tanıtım Metinleri ve Toplama Afişleri
+## 5. Tanıtım Metinleri ve Toplama Afişleri
 
 + **2018-19 - Proje Tanıtım Haber Metni**:
   [Bağlantı](./Tanıtım%20Afişleri%20ve%20Tanıtım%20Metni/Tanıtım%20Haber%20Metni.pdf).
@@ -160,7 +187,7 @@ Belediyesi'nin geri dönüşüm aracına veriliyor.
 
   <img src="./Tanıtım Afişleri ve Tanıtım Metni/Bahar Dönemi - Toplama Afişi.png" width="70%"/>
 
-## 5. Toplama Verileri
+## 6. Toplama Verileri
 
 + 2017 - 2018 Güz Dönemi (9.10.2018 - 11.1.2019) arası kümülatif toplama verileri için aşağıdaki görsele tıklayınız:
 
@@ -172,32 +199,32 @@ Belediyesi'nin geri dönüşüm aracına veriliyor.
 + 2017 - 2018 Bahar Dönemi (14.03.2018 - 11.05.2018) kümülatif toplama verileri ve infografikler için tıklayınız:
   [2017-18 Bahar - Kümülatif Toplama Verileri.pdf](./Toplama%20Verileri/2017-18%20Bahar%20-%20Kümülatif%20Toplama%20Verileri.pdf).
 
-## 6. Basında Yıldız Dönüşüyor
+## 7. Basında Yıldız Dönüşüyor
 
-### 6.1 YTÜ Kampüs (23.03.2018)
+### 7.1 YTÜ Kampüs (23.03.2018)
 
 + **Haber Bağlantısı:** https://www.ytukampus.com/konu/yildiz-donusuyor-projesi-ile-geri-donusum/
 + **Haber Sayfası Ekran Görüntüsü:** [Bağlantı](./Basında%20YD/YTÜ%20Kampüs%20YD%20Haberi.pdf).
 
-### 6.2 Sombrero Dergisi (09.06.2018)
+### 7.2 Sombrero Dergisi (09.06.2018)
 
 Yazı, YTÜ öğrencileri tarafından çıkarılan Sombrero Dergi’nin üçüncü sayısında yer almıştır.
 
 + **Dergi Yazısı:** [Bağlantı](./Basında%20YD/Sombrero%20Dergisi%20YD%20Yazısı.pdf).
 
-### 6.3 Çevreci Geek Ropörtajı (12.11.2018):
+### 7.3 Çevreci Geek Ropörtajı (12.11.2018):
 
 + **Haber Bağlantısı:**
   https://cevrecigeek.com/yildiz-donusuyor-yildiz-teknik-universitesi-ogrenciler-yaklasik-1-5-ton-atigi-geri-donusturdu/
 + **Haber Sayfası Ekran Görüntüsü:** [Bağlantı](./Basında%20YD/Çevreci%20Geek%20Ropörtajı.pdf).
 
-### 6.4 Yeşil Sektör 2019 - Yıldız Dönüşüyor Paneli (25.03.2019):
+### 7.4 Yeşil Sektör 2019 - Yıldız Dönüşüyor Paneli (25.03.2019):
 
 + **Yeşil Sektör 2019 - YD Paneli İnstagram Postu:** https://www.instagram.com/p/BvbpVEEg6pD/
 + **Yeşil Sektör 2019 - YD Paneli İnstagram Postu Ekran
   Görüntüsü:** [Bağlantı](./Basında%20YD/Yeşil%20Sektör%202019%20-%20YD%20Paneli%20İnstagram%20Postu.png).
 
-## 7. Toplamalardan Fotoğraflar
+## 8. Toplamalardan Fotoğraflar
 
 Kişisel verilerin korunması gereğince yüzler bulanıklaştırılmıştır. Diğer fotoğraflar ve videolar için bana
 ulaşabilirsiniz.
@@ -207,7 +234,7 @@ ulaşabilirsiniz.
   <img src="./images/toplama_fotolari/toplama_foto3.jpg" alt="toplama_foto3" width="60%" />
   <img src="./images/toplama_fotolari/toplama_foto4.jpg" alt="toplama_foto4" width="60%" />
 
-## 8. Fikir Havuzu ve Gelecek Planları
+## 9. Fikir Havuzu ve Gelecek Planları
 
 + Yemek dolabının (siyah dolabın) yerinin değiştirilmesi, böylece HayHak kulüp odasına girenler ilk siyah dolabı kontrol
   edecekler.
